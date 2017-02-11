@@ -1,0 +1,12 @@
+What happens when you initialize a REPOsitory? Why do you need to do it?
+	
+	Initializing a git REPOsitory creates a hidden directory (.git) which stores metadata about 
+	history of changes made ti files in the REPOsitory. Git is a VCS, it does version controlling 
+	through REPOsitories so "git init"/initializing REPOsitory is the first step of version 
+	controlling.
+	
+How is the staging area different from the working directory and the REPOsitory? What value do you think it offers?
+	
+	WD(Working Directory) is the directory user works on where files are manipulated as needed, REPO (Repository) is
+	a directory/storage where files are tracked for changes. SA (Staging Area) is  the place inbetween WD and REPO where 
+	files are taken from WD and prepared in SA to be commited later in the REPO. 
