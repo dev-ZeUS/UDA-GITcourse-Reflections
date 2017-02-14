@@ -10,3 +10,25 @@ How is the staging area different from the working directory and the REPOsitory?
 	WD(Working Directory) is the directory user works on where files are manipulated as needed, REPO (Repository) is
 	a directory/storage where files are tracked for changes. SA (Staging Area) is  the place inbetween WD and REPO where 
 	files are taken from WD and prepared in SA to be commited later in the REPO. 
+	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	After each logical change, adding it to the staging area and commiting would certainly keep this criteria in check.
+	
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches would certainly help in cases of adding/removing features, or introducing experimental changes while 
+	keeping the history organized in well-documented manner.
+	
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams greatly helped visualizing the branches by showing commit history in a graphical tree manner.
+	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging two branches results in updating all the changes and merging them together in one commit and pointing 
+	to that commit. In the diagram it is represented in that manner because thats the way it works.
+	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	Both type of merging has its pros and cons. I think its user dependent.
