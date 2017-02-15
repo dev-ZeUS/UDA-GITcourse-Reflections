@@ -18,3 +18,9 @@ What is the benefit of having a copy of the last known state of the remote store
 	
 	Remotes are used for the purpose of collaboration, so in case that while collaborating anything don't 
 	get changed in a unwanted way it is safer to store a local copy.
+	
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Without tools such as Git & GitHub I would have to use manual options like file sharing (Dropbox, Google Drive).
+	Manual options owuld be ahrder as I have to do all the changes, keeping track of them manually while in case of Git/GitHub
+	most of the tasks are done automatically by GitHub.
